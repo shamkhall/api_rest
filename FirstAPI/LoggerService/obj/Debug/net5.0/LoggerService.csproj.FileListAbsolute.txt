@@ -1,0 +1,15 @@
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\shamkhal\Desktop\APIlessons\FirstAPI\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
